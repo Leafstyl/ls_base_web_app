@@ -1,4 +1,4 @@
-# ls_base_web_app
+# Base Web Application ls_base_web_app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
